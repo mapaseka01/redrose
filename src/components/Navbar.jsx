@@ -23,10 +23,10 @@ function Navbar() {
                   Dropdown
                 </a>
                 <ul className="dropdown-menu">
-                  <li><a className="dropdown-item" href="#">Action</a></li>
-                  <li><a className="dropdown-item" href="#">Another action</a></li>
+                  <li><a className="dropdown-item" href="#">Flowers</a></li>
+                  <li><a className="dropdown-item" href="#">Occasions</a></li>
                   <li><hr className="dropdown-divider"/></li>
-                  <li><a className="dropdown-item" href="#">Something else here</a></li>
+                  <li><a className="dropdown-item" href="#">Flowers Delivery</a></li>
                 </ul>
               </li>
               <li className="nav-item">
